@@ -1,2 +1,2 @@
 # Python-basics
-Basic till functions
+Basic, till Loops
